@@ -1,0 +1,2 @@
+D:/senior/flutter/NEW CODE/nahkum/android/app/.cxx/RelWithDebInfo/51285k5z/x86/CMakeFiles/edit_cache.dir
+D:/senior/flutter/NEW CODE/nahkum/android/app/.cxx/RelWithDebInfo/51285k5z/x86/CMakeFiles/rebuild_cache.dir
